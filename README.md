@@ -1,6 +1,6 @@
 # 🫀 Heart Disease Prediction & Severity Classification
 
-This repository contains a machine learning pipeline designed to predict the presence and severity of heart disease based on clinical and demographic features. Developed as part of the **CSE422** coursework, the project explores the end-to-end data science lifecycle, from exploratory data analysis and handling imbalanced datasets to model training and performance evaluation.
+This repository contains a machine learning pipeline designed to predict the presence and severity of heart disease based on clinical and demographic features. Developed as part of the **CSE422: ARTIFICIAL INTELLIGENCE** coursework, the project explores the end-to-end data science lifecycle, from exploratory data analysis and handling imbalanced datasets to model training and performance evaluation.
 
 ### 🔬 Project Overview
 The objective of this classification task is to categorize patients into varying risk levels (0-4) to assist healthcare professionals with data-driven diagnostic support. The dataset consists of 920 patient records with 15 clinical features, including resting blood pressure, serum cholesterol, and exercise-induced angina.
